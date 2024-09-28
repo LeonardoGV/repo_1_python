@@ -3,3 +3,6 @@ b = 10
 def sumar(a,b):
     c = a + b
     return c
+
+
+sumar(a,b)
